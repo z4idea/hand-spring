@@ -12,6 +12,7 @@
         <module>springfarmework_1</module>
         <module>springfarmework_2</module>
         <module>springfarmework_3</module>
+        <module>springfarmework_4</module>
     </modules>
 
     <properties>
