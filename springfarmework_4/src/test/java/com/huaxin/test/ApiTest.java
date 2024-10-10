@@ -1,4 +1,4 @@
-package com.huaixn.test;
+package com.huaxin.test;
 
 import com.huaxin.bean.UserDao;
 import com.huaxin.bean.UserService;

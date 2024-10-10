@@ -1,4 +1,4 @@
-package com.huaixn.test;
+package com.huaxin.test;
 
 import com.huaxin.BeanDefinition;
 import com.huaxin.BeanFactory;

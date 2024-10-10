@@ -14,6 +14,7 @@
         <module>springfarmework_3</module>
         <module>springfarmework_4</module>
         <module>springfarmework_5</module>
+        <module>springfarmework_6</module>
     </modules>
 
     <properties>
