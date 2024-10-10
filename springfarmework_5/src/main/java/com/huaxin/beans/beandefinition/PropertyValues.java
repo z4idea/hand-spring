@@ -10,9 +10,9 @@ public class PropertyValues {
         propertyValueList.add(propertyValue);
     }
 
-    public PropertyValue getPropertyValue(String beanName){
+    public PropertyValue getPropertyValue(String name){
         for (PropertyValue propertyValue : propertyValueList) {
-            if(propertyValue.getName().equals(beanName)){
+            if(propertyValue.getName().equals(name)){
                 return propertyValue;
             }
         }
