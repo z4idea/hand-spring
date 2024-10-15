@@ -9,12 +9,13 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>springfarmework_1</module>
-        <module>springfarmework_2</module>
-        <module>springfarmework_3</module>
-        <module>springfarmework_4</module>
-        <module>springfarmework_5</module>
-        <module>springfarmework_6</module>
+        <module>springframework_1</module>
+        <module>springframework_2</module>
+        <module>springframework_3</module>
+        <module>springframework_4</module>
+        <module>springframework_5</module>
+        <module>springframework_6</module>
+        <module>springframework_7</module>
     </modules>
 
     <properties>
