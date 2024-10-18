@@ -16,6 +16,7 @@
         <module>springframework_5</module>
         <module>springframework_6</module>
         <module>springframework_7</module>
+        <module>springframework_8</module>
     </modules>
 
     <properties>
