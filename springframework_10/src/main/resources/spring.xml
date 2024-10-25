@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+
+    <bean class="com.huaxin.context.event.listener.ContextRefreshedEventListener"/>
+
+    <bean class="com.huaxin.test.event.CustomEventListener"/>
+
+    <bean class="com.huaxin.context.event.listener.ContextClosedEventListener"/>
+
+</beans>
+
