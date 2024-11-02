@@ -20,6 +20,7 @@
         <module>springframework_9</module>
         <module>springframework_10</module>
         <module>springframework_11</module>
+        <module>springframework_12</module>
     </modules>
 
     <properties>
