@@ -24,6 +24,8 @@
         <module>springframework_13</module>
         <module>springframework_14</module>
         <module>springframework_15</module>
+        <module>springframework_16</module>
+        <module>springframework_17</module>
     </modules>
 
     <properties>

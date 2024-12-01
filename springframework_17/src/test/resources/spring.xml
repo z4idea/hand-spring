@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+
+    <bean id="husband" class="com.huaxin.test.bean.Husband">
+        <property name="wifiName" value="你猜"/>
+        <property name="marriageDate" value="2021-08-08"/>
+    </bean>
+
+    <bean id="conversionService" class="com.huaxin.beans.factorybean.ConversionServiceFactoryBean">
+        <property name="converters" ref="converters"/>
+    </bean>
+
+    <bean id="converters" class="com.huaxin.test.converter.ConvertersFactoryBean"/>
+
+</beans>
